@@ -2,6 +2,12 @@
 
 Image Gallery Server is a small dependency-free Python program that starts a local web server and displays all images in the current directory in a clean and responsive gallery interface. It is intended for quick local browsing or sharing a folder of images without needing dependencies, external tools or frameworks. 
 
+## Installation
+
+```shell
+wget https://raw.githubusercontent.com/tintin10q/simple-image-gallery/refs/heads/main/image_gallery_server.py
+```
+
 # Feature overview
 
 - Serves all images in the current directory
